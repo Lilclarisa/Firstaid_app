@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CustomerCareActivity">
+
+    <TextView
+        android:paddingTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/support"
+        android:text="@string/support"
+        android:textSize="18dp"
+        android:paddingRight="5dp"
+        android:paddingLeft="5dp"/>
+
+    <TextView
+        android:padding="14dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/care_email"
+        android:text="@string/care_email"
+        android:textSize="14dp"/>
+
+
+</LinearLayout>

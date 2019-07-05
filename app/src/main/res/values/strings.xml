@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First aid Assistance</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sign_in">Have an account? Sign in</string>
+    <string name="app_logo">First Aid App</string>
+    <string name="blood_prompt">Blood Group</string>
+    <string name="rhesus_prompt">Rhesus</string>
+    <string name="gender_prompt">Gender</string>
+    <string name="sign_up">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_button">SIGN IN</string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="login_page">FirstAid app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="choose_profile">Tap on the Camera to choose profile picture</string>
+    <string name="button_save">Save</string>
+    <string name="accident">Accidents and Emergencies</string>
+    <string name="kit">Firstaid kit</string>
+    <string name="blood">Blood Donation</string>
+    <string name="forum">User forum</string>
+    <string name="share">Share</string>
+    <string name="logout">Log out</string>
+    <string name="contacts">Emergency Contacts</string>
+    <string name="options">Options</string>
+    <string name="map">Near me</string>
+    <string name="name">username</string>
+    <string name="email_user">useremail@gmail.com</string>
+    <string name="fragment">Accidents Fragment</string>
+    <string name="firstname">Food Poisoning</string>
+    <string name="image_description">
+
+       <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        Food poisoning is an illness caused by eating contaminated food.
+        It\'s not usually serious and most people get better within a few days without treatment.
+        In most cases of food poisoning, the food is contaminated by bacteria.\n
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+        The symptoms of food poisoning usually begin within one to two days of eating contaminated food,
+        although they may start at any point between a few hours and several weeks later.
+       The main symptoms include:\n
+        feeling sick (nausea)\n
+        vomiting\n
+        diarrhoea, which may contain blood or mucus\n
+        stomach cramps and abdominal (tummy) pain\n
+        a lack of energy and weakness\n
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+        Sipping soda may help prevent vomiting.
+        Don\’t eat fried, greasy, spicy, or sweet foods.
+        Don\’t take anti-nausea or anti-diarrhea medication without asking your doctor.
+        They may make some kinds of diarrhea worse.
+        Your doctor may give you anti-nausea medication if you are at risk of being dehydrated. </string>
+
+    <string name="asthma">
+        <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        Asthma is a common long-term condition that can cause coughing, wheezing, chest tightness and breathlessness.
+        The severity of these symptoms varies from person to person.
+        Asthma can be controlled well in most people most of thetime,
+        although some people may have more persistent problems.\n
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+         Coughing, especially at night
+          Wheezing
+          Shortness of breath
+          Chest tightness, pain, or pressure\n
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+        Sit the person upright comfortably and loosen tight clothing. If the person has asthma medication,
+        such as an inhaler, assist in using it.
+        If the person doesn\'t have an inhaler, use one from a first aid kit.
+
+    </string>
+    <string name="heat_stroke">
+        <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        Heat stroke, also known as sun stroke, is a type of severe heat illness that results in a body temperature greater than 40.0 °C (104.0 °F)
+        and confusion.
+        Other symptoms include red, dry or damp skin, headache, and dizziness. Onset can be sudden or gradual.\n
+
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+        Throbbing headache.
+        Dizziness and light-headedness.
+       Lack of sweating despite the heat.
+        Red, hot, and dry skin.
+       Muscle weakness or cramps.
+       Nausea and vomiting.
+      Rapid heartbeat, which may be either strong or weak.
+       Rapid, shallow breathing.\n
+
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+      Cool the person\'s entire body by sponging or spraying cold water, and fan the person to help lower the person\'s body temperature.
+        Watch for signs of rapidly progressing heatstroke,
+        such as seizure, unconsciousness for longer than a few seconds, and moderate to severe difficulty breathing.
+    </string>
+    <string name="nose_bleed">
+        <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        The most common cause of anterior nosebleeds is dry air. A dry climate or heated indoor air irritates and dries out nasal membranes,
+        causing crusts that may itch and then bleed when scratched or picked.
+        Colds may also irritate the lining of the nose. Bleeding may occur after repeated blowing.\n
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+        Excess blood loss may cause dizziness and fainting, confusion, loss of alertness and light-headedness. However, the condition is rare.
+        Bleeding from other body parts like teeth, gums, nostrils, etc. indicate inability of blood to clot.\n
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+        Reassure the person, especially children, as crying increases blood flow. Sit the person up straight and drop their head slightly forward.
+        Apply finger and thumb pressure on the soft part of nostrils below the bridge of the nose for at least 10 minutes.\n
+    </string>
+    <string name="snake_bite">
+        <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        A snakebite is an injury caused by the bite of a snake, especially a venomous snake.\n
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+            two puncture wounds.
+    swelling and redness around the wounds.
+    pain at the bite site.
+    difficulty breathing.
+    vomiting and nausea.
+    blurred vision.
+    sweating and salivating.
+    numbness in the face and limbs.\n
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+        Apply a pressure immobilisation bandage and keep the person calm and as still as possible until medical help arrives. Avoid washing the bite area because any venom left on the skin can help identify the snake.
+        DO NOT apply a tourniquet, cut the wound or attempt to suck the venom out.\n
+    </string>
+    <string name="stroke">
+        <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        Stroke is a disease that affects the arteries leading to and within the brain.
+         It occurs when a blood vessel that carries oxygen and nutrients to the brain is either blocked by a clot or bursts (or ruptures).\n
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+            Sudden numbness or weakness of face, arm, or leg, especially on one side of the body.
+    Sudden confusion, trouble speaking or understanding speech.
+    Sudden trouble seeing in one or both eyes.
+    Sudden trouble walking, dizziness, loss of balance or coordination.
+    Sudden severe headache with no known cause.\n
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+        Stay as calm as possible while waiting for emergency help. If you\'re caring for someone else having a stroke,
+        make sure they\'re in a safe, comfortable position. Preferably, this should be lying on one side with their head slightly raised and supported in case they vomit.
+        Check to see if they\'re breathing.\n
+    </string>
+    <string name="heart_attack">
+        <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        A heart attack occurs when a coronary artery becomes suddenly blocked, stopping the flow of blood to the heart muscle and damaging it.\n
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+            Pressure, tightness, pain, or a squeezing or aching sensation in your chest or arms that may spread to your neck, jaw or back.
+    Nausea, indigestion, heartburn or abdominal pain.
+    Shortness of breath.
+    Cold sweat.
+    Fatigue.
+    Lightheadedness or sudden dizziness.\n
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+        If you think someone is having a heart attack: Have the person sit down, rest, and try to keep calm. Loosen any tight clothing. Ask if the person takes any chest pain medicine, such as nitroglycerin,
+        for a known heart condition, and help them take it.\n
+    </string>
+    <string name="epilepsy">
+        <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        Epilepsy is characterized by unpredictable seizures and can cause other health problems. Epilepsy is a spectrum condition with a wide range of seizure types and control varying from person-to-person.\n
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+        Seizure signs and symptoms may include: Temporary confusion. A staring spell.Psychic symptoms such as fear, anxiety or deja vu.\n
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+        First aid for seizures is aimed at keeping the person safe until the seizure stops on its own. Stay calm, loosen anything around the person\'s neck, do not restrain them or put anything in their mouth, clear the area around them,
+        and stay with them after the seizure stops.\n
+    </string>
+    <string name="labor_signs">
+        <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        Pain during labor is caused by contractions of the muscles of the uterus and by pressure on the cervix. This pain can be felt as strong cramping in the abdomen, groin, and back, as well as an achy feeling.\n
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+          Cervix dilates.
+Cramps and increased back pain.
+Loose-feeling joints.
+Diarrhea.
+Weight gain stops.
+Fatigue and \"nesting instinct\"
+Vaginal discharge changes color and consistency.\n
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+        Support the mother as she delivers the afterbirth. Keep the placenta and the umbilical cord intact, do not cut the cord. If there is severe pain or bleeding, treat for shock. Help the mother to lie down and raise her legs and keep her warm.\n
+    </string>
+    <string name="strains">
+        <u><b><font fgcolor='#1D8ECE'>About</font></b></u>\n
+        Sprains and strains both refer to damage to the soft tissues in the body, including ligaments, tendons, and muscles. People can often treat sprains and strains at home. A sprain is an overstretched, torn, or twisted ligament.
+        A ligament is a tough band of fibrous tissue that connects bones to other bones or cartilage.\n
+        <u><b><font fgcolor='#1D8ECE'>Signs and symptoms</font></b></u>\n
+            Pain.
+    Swelling.
+    Bruising.
+    Limited ability to move the affected joint.
+    Hearing or feeling a \"pop\" in your joint at the time of injury.\n
+        <u><b><font fgcolor='#1D8ECE'>What to do</font></b></u>\n
+         Rest the injured part until it\'s less painful. Ice: Wrap an icepack or cold compress in a towel and place over the injured part immediately.Compression: Support the injured part with an elastic compression bandage for at least 2 days.
+        Elevation: Raise the injured part above heart level to decrease swelling.
+    </string>
+    <string name="about_blood">
+
+        <b><font fgcolor='#1D8ECE'>Who should donate blood?</font></b>\n
+In Kenya, you can donate blood if you are aged 16-65 years, in good health, and weigh over 50 kg.
+However, for teenagers between 16 and 18 years, consent is required from their parents or guardians before donating blood.\n
+        <b> <font fgcolor='#1D8ECE'>Tips on donating blood</font></b>\n
+    1.Have a good meal at least 3 hours before donating blood\n.
+    2.Accept the snacks offered after the donation. It is recommended to have a good meal later.\n
+    3.Avoid smoking on the day before donating. One can smoke 3 hours after donation.\n
+        <b> <font fgcolor='#1D8ECE'>When should you not donate blood?</font></b>\n
+    1.When feeling unwell or have a cold or flu on the day of donation\n
+    2.If you have been on antibiotics a week prior to donation.\n
+    3.If you had a body piercing or injected with a non-prescribed drug within the previous year.\n
+    4.Suffering or Suffered a sexually transmitted disease (STD) in the last one year.\n
+    5.On regular medication or awaiting medical test results.\n
+    6.If you have consumed alcohol 48 hours before donation\n
+        <b><font fgcolor='#1D8ECE'>NOTE</font></b>\n
+        Donors are advised to avoid dehydration (strenuous games, alcohol) until a few hours after donation.
+    </string>
+    <string name="donate">Register for blood donation</string>
+    <string name="deregister">Unregister from blood donation</string>
+    <string name="but">SEND</string>
+    <string name="county">County</string>
+
+    <string name="ambulance">Ambulance</string>
+    <string name="post_title">Title</string>
+    <string name="post_desc">Description</string>
+    <string name="check">Donate Blood?</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="care"> Feedback</string>
+    <string name="support"><font fgcolor='#000000'> Have a question about First aid assistance ? \n
+        Contact us through the email address below</font></string>
+    <string name="care_email"><font fgcolor='#1D8ECE'>webdevs019@gmail.com</font></string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_bottom">Bottom</string>
+    <string name="title_home">Nearby Hospitals</string>
+    <string name="title_dashboard">Nearby Pharmacies</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="reset">RESET PASSWORD</string>
+    <string name="adhesive">  Also called a sticking plaster, medical plaster,is a small medical dressing used for injuries not serious enough to require a full-size bandage.</string>
+    <string name="adhesive_tape">Surgical tape or medical tape is a type of pressure-sensitive adhesive tape used in medicine and first aid to hold a bandage or other dressing onto a wound. ...
+        Some breathable tapes such as Kinesiology Tape, and other elastic bandages with adhesive are made of cotton.</string>
+    <string name="antibiotic">This medication is used to prevent and treat minor skin infections caused by small cuts, scrapes, or burns. ... Ask your doctor first before using this product for serious
+         skin injuries or infections (e.g., deep cuts, puncture wounds, animal bites, serious burns).</string>
+    <string name="blanket">Uses for an Emergency Blanket. An emergency blanket, sometimes referred to as a first aid blanket, space blanket, Mylar, thermal or weather blanket, is used in emergencies to reduce heat loss in
+        a person\'s body caused by thermal radiation, water evaporation and convection.</string>
+    <string name="lotion">It is the main ingredient in calamine lotion and is used as an antipruritic to treat sunburn, eczema, rashes, poison ivy, chickenpox, insect bites and stings.
+        It is used as a mild antiseptic to prevent infections that can be caused by scratching the affected area.</string>
+    <string name="cold_pack">Chemical Cold Packs / Instant Ice Packs / Instant Cold Compresses temporarily relieve minor pain and swelling for sprains, aches and sore joints.
+        Our Instant Chemical Cold Packs are conveniently disposable with no pre-chilling required for quick, effective relief.</string>
+    <string name="elastic_bandage">Elastic bandages are commonly used to treat muscle sprains and strains by reducing the flow of blood to a particular area by the application of even stable pressure which can restrict swelling at the place of injury.
+        Elastic bandages are also used to treat bone fractures.</string>
+    <string name="flashlight">A powerful flashlight is essential. All reviewers give the Maglite 6-D Cell a big endorsement for its small size. This first aid kit by Johnson and Johnson includes gauze, bandages, wipes, pain relievers,
+        ointment, an instant ice pack - everything needed to treat a minor injury, earning it a perfect (100/100) rating.</string>
+    <string name="gauze">Adhesive bandages aren\'t always large enough to cover a wound, which is why it\'s crucial to have gauze pads in a first aid kit. Gauze pads can be fashioned into a bandage or used to absorb blood.
+        Gauze pads come in many sizes and each kit should include an assortment.</string>
+    <string name="glove">Disposable gloves offer an added barrier against infection in a first aid situation. It is important that first aiders carry disposable, latex free gloves at all times.
+        The first aider should wear them whenever there is a likelihood of contact with bodily fluids.</string>
+    <string name="medications">Pain reliever,such as acetaminophen, aspirin, ibuprofen, ketoprofen or 
+        naproxen sodium - for relief of headaches, muscle aches and joint pain </string>
+    <string name="mouthpiece_cpr">CPR Mouthpiece (Yellow) Mouthpiece a must for any First Aid kit.
+        It fits comfortably into the mouth to aid resuscitation and has a one way valve.</string>
+    <string name="safety_pins">Safety Pins. As a first aid necessity, we have small, medium and large safety pins that can be used to hold and secure wraps and bandages during the performance of first aid.
+        Each size has 144 pins per box.</string>
+    <string name="scissors">While the most common use of scissors is for cutting gauze and sometimes even adhesive bandages to an appropriate length. It is also used for other tasks such as
+        cutting away clothing to expose injured areas to be able to treat wounds better (thus the blunted blade).</string>
+    <string name="soap">For fresh cuts and scrapes, wash first with cool, running water. Soap can irritate wounds, but mild soaps may be used to gently clean the area around the wound.
+        Once the wound is clean, dab on a little antibiotic ointment and cover with a sterile bandage.</string>
+    <string name="thermometer">A thermometer to measure body temperature. An oral digital thermometer is probably the best choice. Digital thermometers used in the ear are more accurate but also more expensive.
+        Fever can be relieved with paracetamol or ibuprofen.</string>
+    <string name="tweezers">Tweezers are an important tool to have in any first aid kit regardless of how basic your kit is. Tweezers can be used to remove debris such as glass, dirt, or splinters from a wound.
+        They can also be used to remove stingers left behind by bees.</string>
+    <string name="wipes">Antiseptic wipes kill germs and sanitize skin or whatever surface to which they are applied. Antiseptic wipes can be used to clean wounds, help perform a sterile catheter procedure, and
+        prepare skin for surgery. They are a mainstay of home first aid kits and hospitals.</string>
+
+    <string name="search">Search</string>
+</resources>

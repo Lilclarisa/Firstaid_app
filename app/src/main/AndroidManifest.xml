@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.firstaidassistance">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".PopUpKits.MedicationActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.WipesActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.TweezersActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.ThermometerActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.SoapActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.ScissorsActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.SafetyPinsActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.MouthpieceCprActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.GloveActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.GauzeActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.FlashlightActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.ElasticBandageActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.ColdPackActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.LotionActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.BlanketActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.AntibioticOitmentActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity android:name=".PopUpKits.AdhesiveTapeActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity
+            android:name=".PopUpKits.AdhesiveActivity"
+            android:theme="@style/AppTheme.CustomTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.FirstAidKitActivity" />
+        </activity>
+        <activity
+            android:name=".ResetPasswordActivity"
+            android:exported="true"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity android:name=".Bottom" />
+        <activity
+            android:name=".CustomerCareActivity"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".ContactActivity"
+            android:exported="true"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_maps" />
+        <activity android:name=".BloodInfoActivity" />
+        <activity
+            android:name=".StrainsActivity"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".LaborSignsActivity"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".EpilepsyActivity"
+            android:exported="true"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".HeartAttackActivity"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".StrokeActivity"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".SnakeBitesActivity"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".NoseBleedActivity"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".HeatStrokeActivity"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".AsthmaActivity"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".FirstAidKitActivity"
+            android:exported="true"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+        <activity
+            android:name=".NavActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FragmentFoodpoison"
+            android:theme="@style/MyTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.firstaidassistance.NavActivity" />
+        </activity>
+    </application>
+
+</manifest>
